@@ -207,4 +207,19 @@ input{
     .subscribe{
         width: 50%;
     }
+    .top1{
+        content: url(Images/bg-section-top-mobile-1.svg);
+    }
+    .top2{
+        content: url(Images/bg-section-top-mobile-2.svg);
+    }
+    .bottom1{
+        content: url(Images/bg-section-bottom-mobile-1.svg);
+    }
+    .bottom2{
+        content: url(Images/bg-section-bottom-mobile-2.svg);
+    }
+    .footer1{
+        content: url(Images/bg-footer-top-mobile.svg);
+    }
 }
